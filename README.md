@@ -5,7 +5,7 @@
 
 ## Cách sử dụng:
 
-- Mỗi thư mục bài tập chứa các tập tin mã nguồn Java cho bài giải và, nếu có, tập tin mô tả bài tập tương ứng.
+- Mỗi thư mục bài tập chứa các tập tin mã nguồn Java cho bài giải.
 - Xem xét mã và tập tin mô tả để hiểu cách thức triển khai.
 - Sử dụng môi trường phát triển Java yêu thích của bạn để chạy và kiểm tra các bài giải.
 
@@ -19,4 +19,4 @@
  - Trang web Udemy: [Udemy](https://www.udemy.com/)
  - Khóa học "Java 17 Masterclass: Start Coding in 2024 | Udemy": [LINK](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=KEEPLEARNING)
 
-## Chúc bạn học tập hiệu quả! (〜￣▽￣)〜
+
