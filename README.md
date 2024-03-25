@@ -11,8 +11,8 @@
 
 ## Lưu ý:
 
--Thư mục này chỉ dành cho mục đích lưu trữ bài tập.
--Bạn có thể tải xuống tài liệu khóa học và các tài nguyên khác từ trang web Udemy.
+- Thư mục này chỉ dành cho mục đích lưu trữ bài tập.
+- Bạn có thể tải xuống tài liệu khóa học và các tài nguyên khác từ trang web Udemy.
 
 ## Tài nguyên:
 
