@@ -1,7 +1,7 @@
 ## LearningJavaProjects
 ## Chào mừng!
 
--Đây là kho lưu trữ bài tập cho khóa học "Java 17 Masterclass: Start Coding in 2024 | Udemy". Khóa học này giúp bạn hiểu toàn diện về lập trình Java, từ các khái niệm cơ bản đến các chủ đề nâng cao dành cho nhà phát triển phần mềm.
+- Đây là kho lưu trữ bài tập cho khóa học "Java 17 Masterclass: Start Coding in 2024 | Udemy". Khóa học này giúp bạn hiểu toàn diện về lập trình Java, từ các khái niệm cơ bản đến các chủ đề nâng cao dành cho nhà phát triển phần mềm.
 
 ## Cách sử dụng:
 
